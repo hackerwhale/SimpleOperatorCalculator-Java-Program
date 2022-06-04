@@ -9,11 +9,11 @@ public class SimpleOperatorCalculator {
 
 
     Scanner sc = new Scanner(System.in);
-    System.out.println("/============================Rules=======================================/");
-    System.out.println("1. a must be integar number. ");
+    System.out.println("/=============================Rules=======================================/");
+    System.out.println("1. Value of a and b must be integar number. ");
     System.out.println("2. Integar a must be bigger than b. ");
     System.out.println("3. Operation that can be performed:  { '+',   '-',   '/',   '*',   '%' } ");
-    System.out.println("+=======================================================================+");
+    System.out.println("+========================================================================+");
     System.out.println("Enter number a:  ");
     int a = sc.nextInt();
     System.out.println("Enter number b:  ");
