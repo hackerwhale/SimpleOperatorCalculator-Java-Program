@@ -10,7 +10,7 @@ public class SimpleOperatorCalculator {
 
     Scanner sc = new Scanner(System.in);
     System.out.println("/=============================Rules=======================================/");
-    System.out.println("1. Value of a and b must be integar number. ");
+    System.out.println("1. Value of a and b must be an integar number. ");
     System.out.println("2. Integar a must be bigger than b. ");
     System.out.println("3. Operation that can be performed:  { '+',   '-',   '/',   '*',   '%' } ");
     System.out.println("+========================================================================+");
